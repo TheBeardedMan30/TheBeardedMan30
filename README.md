@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheBeardedMan30
+- 👀 I’m interested in full-stack software engineering, web page development and video game development.
+- 🌱 I’m currently learning full-stack software engineering through CodeCademy, and video game development with GoDot and GDQuest.
+- 📫 How to reach me: LinkedIn www.linkedin.com/in/chris-allen-b08075b4
